@@ -1,0 +1,70 @@
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\appsettings.json
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Ejercicio N2.exe
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Ejercicio N2.deps.json
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Ejercicio N2.runtimeconfig.json
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Ejercicio N2.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Ejercicio N2.pdb
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Ejercicio N2.xml
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.csproj.AssemblyReference.cache
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.AssemblyInfoInputs.cache
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.AssemblyInfo.cs
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.csproj.CoreCompileInputs.cache
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\scopedcss\bundle\Ejercicio N2.styles.css
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.csproj.CopyComplete
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\refint\Ejercicio N2.dll
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.xml
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.pdb
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.genruntimeconfig.cache
+C:\Users\gmaradiaga\source\repos\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\ref\Ejercicio N2.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\appsettings.json
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Ejercicio N2.exe
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Ejercicio N2.deps.json
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Ejercicio N2.runtimeconfig.json
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Ejercicio N2.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Ejercicio N2.pdb
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Ejercicio N2.xml
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.csproj.AssemblyReference.cache
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.AssemblyInfoInputs.cache
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.AssemblyInfo.cs
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.csproj.CoreCompileInputs.cache
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\scopedcss\bundle\Ejercicio N2.styles.css
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.csproj.CopyComplete
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\refint\Ejercicio N2.dll
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.xml
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.pdb
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\Ejercicio N2.genruntimeconfig.cache
+C:\Users\gmaradiaga\Desktop\Ejercicio N2\Ejercicio N2\obj\Debug\net6.0\ref\Ejercicio N2.dll

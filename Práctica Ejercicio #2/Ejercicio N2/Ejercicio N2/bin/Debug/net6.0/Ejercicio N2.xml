@@ -1,0 +1,200 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ejercicio N2</name>
+    </assembly>
+    <members>
+        <member name="M:Ejercicio_N2.Controllers.Capacitacion.CategoriaController.CrearCategoria(Ejercicio_N2.Models.Capacitacion.CategoriaModel)">
+             <summary>
+             Crea una categoria nueva.
+             </summary>
+             <remarks>
+             
+             Estructura JSON esperada
+            
+                 {
+                     " tipo_operacion": int,
+                     "category_id": int,
+                     "category_name": string,
+                     "description": string
+                    
+                 }
+                 
+             Retorna una estructura JSON con siguiente estructura:
+             
+                 {
+                     "typeResult": int,
+                     "codeResult": int,
+                     "result": string,
+                     "message": string
+                 }
+            
+             <para>En la etiqueta typeResult, se retorna el estado de la ejecución del servicio [0: Exitoso | 1: Error Controlado | 2: Error no controlado]</para>
+             <para>En la etiqueta codeResult, se retorna un detalle del TypeResult</para>
+             <para>En la etiqueta result, se retorna las respuestas esperadas del servicio. Para este servicio se retornará el código de usuario creado.</para>
+             <para>En la etiqueta message, se retorna un mensaje de tipo informativo, error o éxito.</para>
+            
+             </remarks>
+             <returns>
+             </returns>
+             <response code="200">OK. Servicio ejecutado correctamente.</response>
+             <response code="400">BadRequest. Ocurrió un error en la ejecución del servicio.</response>
+        </member>
+        <member name="M:Ejercicio_N2.Controllers.Capacitacion.ProductoController.CrearProducto(Ejercicio_N2.Models.Capacitacion.ProductoModel)">
+             <summary>
+             Crea un producto nuevo.
+             </summary>
+             <remarks>
+             
+             Estructura JSON esperada
+            
+                 {
+                     " tipo_operacion": int,
+                     "product_id": int,
+                     "product_name": string,
+                     "supplier": int,
+                     "category_id": int,
+                     "category_per_unit": string,
+                     "price": decimal,
+                     "units_in_stock": int,
+                     "units_on_order": int,
+                     "reorder_level": int,
+                     "discontinued": bool
+                 }
+                 
+             Retorna una estructura JSON con siguiente estructura:
+             
+                 {
+                     "typeResult": int,
+                     "codeResult": int,
+                     "result": string,
+                     "message": string
+                 }
+            
+             <para>En la etiqueta typeResult, se retorna el estado de la ejecución del servicio [0: Exitoso | 1: Error Controlado | 2: Error no controlado]</para>
+             <para>En la etiqueta codeResult, se retorna un detalle del TypeResult</para>
+             <para>En la etiqueta result, se retorna las respuestas esperadas del servicio. Para este servicio se retornará el código de usuario creado.</para>
+             <para>En la etiqueta message, se retorna un mensaje de tipo informativo, error o éxito.</para>
+            
+             </remarks>
+             <returns>
+             </returns>
+             <response code="200">OK. Servicio ejecutado correctamente.</response>
+             <response code="400">BadRequest. Ocurrió un error en la ejecución del servicio.</response>
+        </member>
+        <member name="M:Ejercicio_N2.Controllers.Capacitacion.SuppliersController.CrearSuppliers(Ejercicio_N2.Models.Capacitacion.SuppliersModel)">
+             <summary>
+             Crea un suppliers nueva.
+             </summary>
+             <remarks>
+             
+             Estructura JSON esperada
+            
+                 {
+                     " tipo_operacion": int,
+                     "supplier_id": int,
+                     "company_name": string,
+                     "contact_name": string,
+                     "contact_title": string,
+                     "city": string,
+                     "region": string,
+                     "postal_code": string,
+                     "country": string,
+                     "phone": string,
+                     "home_page": string,
+                     "address": string,
+                     "fax": string
+                    
+                 }
+                 
+             Retorna una estructura JSON con siguiente estructura:
+             
+                 {
+                     "typeResult": int,
+                     "codeResult": int,
+                     "result": string,
+                     "message": string
+                 }
+            
+             <para>En la etiqueta typeResult, se retorna el estado de la ejecución del servicio [0: Exitoso | 1: Error Controlado | 2: Error no controlado]</para>
+             <para>En la etiqueta codeResult, se retorna un detalle del TypeResult</para>
+             <para>En la etiqueta result, se retorna las respuestas esperadas del servicio. Para este servicio se retornará el código de usuario creado.</para>
+             <para>En la etiqueta message, se retorna un mensaje de tipo informativo, error o éxito.</para>
+            
+             </remarks>
+             <returns>
+             </returns>
+             <response code="200">OK. Servicio ejecutado correctamente.</response>
+             <response code="400">BadRequest. Ocurrió un error en la ejecución del servicio.</response>
+        </member>
+        <member name="M:Ejercicio_N2.Services.Capacitacion.CategoriaService.GestionCategoria(System.String,Ejercicio_N2.Models.Capacitacion.CategoriaModel,System.Int32)">
+            <summary>
+             Método el cual consume el procedimiento almacenado que gestiona una categoría
+            </summary>
+            <remarks>
+            Autor: by gmaradiaga 20230519 
+            </remarks>
+            <returns>
+             Retorna una estructura JSON con siguiente estructura:
+             
+                 {
+                     "typeResult": int,
+                     "codeResult": int,
+                     "result": string,
+                     "message": string
+                 }
+            
+             En la etiqueta typeResult, se retorna el estado de la ejecución del servicio [0: Exitoso | 1: Error Controlado | 2: Error no controlado]
+             En la etiqueta codeResult, se retorna un detalle del TypeResult
+             En la etiqueta result, se retorna el código de categoría recien creado para la operación crear, etc..
+             En la etiqueta message, se retorna un mensaje de tipo informativo, error o éxito.
+             </returns>
+        </member>
+        <member name="M:Ejercicio_N2.Services.Capacitacion.ProductoService.GestionProducto(System.String,Ejercicio_N2.Models.Capacitacion.ProductoModel,System.Int32)">
+            <summary>
+             Método el cual consume el procedimiento almacenado que gestiona un producto
+            </summary>
+            <remarks>
+            Autor: by gmaradiaga 20230519 
+            </remarks>
+            <returns>
+             Retorna una estructura JSON con siguiente estructura:
+             
+                 {
+                     "typeResult": int,
+                     "codeResult": int,
+                     "result": string,
+                     "message": string
+                 }
+            
+             En la etiqueta typeResult, se retorna el estado de la ejecución del servicio [0: Exitoso | 1: Error Controlado | 2: Error no controlado]
+             En la etiqueta codeResult, se retorna un detalle del TypeResult
+             En la etiqueta result, se retorna el código de producto recien creado para la operación crear, etc..
+             En la etiqueta message, se retorna un mensaje de tipo informativo, error o éxito.
+             </returns>
+        </member>
+        <member name="M:Ejercicio_N2.Services.Capacitacion.SuppliersService.GestionSuppliers(System.String,Ejercicio_N2.Models.Capacitacion.SuppliersModel,System.Int32)">
+            <summary>
+             Método el cual consume el procedimiento almacenado que gestiona un suppliers
+            </summary>
+            <remarks>
+            Autor: by gmaradiaga 20230519 
+            </remarks>
+            <returns>
+             Retorna una estructura JSON con siguiente estructura:
+             
+                 {
+                     "typeResult": int,
+                     "codeResult": int,
+                     "result": string,
+                     "message": string
+                 }
+            
+             En la etiqueta typeResult, se retorna el estado de la ejecución del servicio [0: Exitoso | 1: Error Controlado | 2: Error no controlado]
+             En la etiqueta codeResult, se retorna un detalle del TypeResult
+             En la etiqueta result, se retorna el código de suppliers recien creado para la operación crear, etc..
+             En la etiqueta message, se retorna un mensaje de tipo informativo, error o éxito.
+             </returns>
+        </member>
+    </members>
+</doc>
